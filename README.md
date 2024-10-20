@@ -222,6 +222,8 @@ yarn verify --network sepolia
 
 ![gif](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/547612f6-97b9-4eb3-ab6d-9b6d2c0ac769)
 
+Visit my public URL from [here](https://nextjs-nab3nhvxt-induwaras-projects-79306f12.vercel.app/myNFTs)
+
 ## ⚔️ Side Quests
 
 ### 🐟 Open Sea
